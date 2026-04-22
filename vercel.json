@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "my-react-app/dist",
+  "framework": "vite",
+  "installCommand": "npm install",
+  "rootDirectory": "my-react-app"
+}
